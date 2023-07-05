@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbachonko
-- 👀 I’m interested in all Data related branches of Science (epsecially Data Analysis and Science)
+- 👀 I am a Data Scientist by profession. Part of my spare time i devote in developing some web apllications.
 - 🌱 :) 
 
 <!---
